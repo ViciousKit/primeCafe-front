@@ -140,10 +140,10 @@
     </div>
     <div class="container map_block">
       <div class="row">
-        <div class="col-md-6 map_col p-0"><span><img src="../assets/img/map.png" alt=""></span></div>
-        <div class="col-md-6 map_col input_col">
+        <div class="col-md-6 col-sm-12 map_col p-0"><span><img src="../assets/img/map.png" alt=""></span></div>
+        <div class="col-md-6 col-sm-12 map_col input_col">
           <h2 class="title">GET IN TOUCH</h2>
-          <div class="col-md-7">
+          <div class="col-md-7 col-sm-10">
             <form class="input" action="">
               <div class="mb-4">
                 <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Name">

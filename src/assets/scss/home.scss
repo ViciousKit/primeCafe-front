@@ -127,8 +127,8 @@
 }
 
 .middle_block {
-        background-color: #ebebeb;
-        padding: 50px 0 50px 0;
+    background-color: #ebebeb;
+    padding: 50px 0 50px 0;
     
     &_row {
         &_2 {
@@ -167,10 +167,13 @@
         }
     }
     .email {
-        padding-bottom: 30px;
+        padding-bottom: 20px;
+        font-family: 'PT Sans';
+        font-size: 15px;
+        font-weight: 400;
     }
     .contacts_col_left {
-        padding:80px 0 0 250px;
+        padding:60px 0 0 250px;
         .title {
             font-family: 'Q';
             font-size: 50px;
@@ -184,7 +187,6 @@
             font-family: 'PT Sans';
             font-size: 15px;
             font-weight: 600;
-            
         }
         
     }
@@ -195,7 +197,7 @@
 
 .map_block {
     img {
-        max-width: 660px;
+        max-width: 100%;
     }
     .title {
         font-family: 'Q';
