@@ -1,0 +1,16 @@
+.footer {
+    height: 125px;
+    font-family: 'PT Sans';
+    font-size: 15px;
+    font-weight: 600;
+    color: #4d4d4d;
+    &_col {
+        height: 100%;
+    }
+    .text {
+    }
+    margin-top: auto;
+    .logo {
+        justify-content: right;
+    }
+}

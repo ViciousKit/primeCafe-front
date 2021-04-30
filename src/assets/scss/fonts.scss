@@ -1,0 +1,28 @@
+// @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans&family=Space+Grotesk:wght@400;500;600&display=swap');
+
+@font-face {
+    font-family:'Q';
+    src: url('../fonts/Q BdCnd.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: condensed;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'PT Sans';
+    src: url('../fonts/PT Sans.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-F6CE;
+}
+
+@font-face {
+    font-family:'Bebas Neue';
+    src: url('../fonts/Bebas Neue Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2044;
+}
